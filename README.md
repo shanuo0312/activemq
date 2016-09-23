@@ -1,2 +1,2 @@
 # activemq
-瀛︿範娑堟伅闃熷垪activemq
+学习消息队列activemq
